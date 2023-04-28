@@ -1,6 +1,6 @@
-# 2022 DB Web Programming 팀프로젝트 - 중고 플랫폼 통합 조회 서비스
+## DB Web Programming 팀프로젝트 - 중고 플랫폼 통합 조회 서비스
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/74501631/235022596-b3a800ac-e4a1-4a44-8481-0cbb2b9a30b8.png">
-
+(2022.04 ~ 2022.05)
 <br/>
 
 ### Main Description
