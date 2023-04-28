@@ -1,6 +1,6 @@
-# 2022 DB Web Programming 팀프로젝트 - 중고 플랫폼 통합 조회 서비스
+## DB Web Programming 팀프로젝트 - 중고 플랫폼 통합 조회 서비스
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/74501631/235022596-b3a800ac-e4a1-4a44-8481-0cbb2b9a30b8.png">
-
+(2022.04 ~ 2022.05)
 <br/>
 
 ### Main Description
@@ -40,8 +40,13 @@
 ### Result
 
  ![image1](https://user-images.githubusercontent.com/74501631/235025013-cf139ae3-49c6-4563-9a1f-d8b3cd0a8527.png)
+ <br/>
  ![image2](https://user-images.githubusercontent.com/74501631/235025052-7736779c-317d-42d7-8e06-db89079f7369.png)
+ <br/>
  ![image3](https://user-images.githubusercontent.com/74501631/235025080-4f068dab-15f2-49fb-bf5c-cd3aa27453b5.png)
+ <br/>
  ![image4](https://user-images.githubusercontent.com/74501631/235025095-2ebd89b7-72b7-41be-8c75-fae25bd77c3e.png)
+ <br/>
+ <br/>
  click the items -> go link to merchandise page
  ![image5](https://user-images.githubusercontent.com/74501631/235025225-d1edaa71-8aa4-48f6-9484-ab739131dfc2.png)
