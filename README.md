@@ -9,35 +9,39 @@
 
 <br/>
 <br/>
-<br/>
 
 ### Environment
 
-##### 1. Data Processing
+#### 1. Data Processing
 
-Python
+##### Python
  - Load the sales posts on each site.
  - The crawled items : site name, post title, price, image, creation date,  post link.
  - Each site collects 200,000 data.
  - Accumulate data and show it in real time to crawled every specific time.
- MySQL
+ 
+ ##### MySQL
  - Preprocess the crawled data as MySQL. (Uniform column shape, and delete unnecessary data & null value).
 
-##### 2. Implement Web page
-Php
+#### 2. Implement Web page
+
+##### Php
  - connect the MySQL Database
  - Implement a page that shows search results in the latest order (default).
+ - Settings made to divide pages: The maximum number of posts that can appear in the list, the number of pages that will be displayed on one screen.
+ - Use Sql's from clause subquery to get only the list corresponding to each page from the extreme value removed table.
+ - Implement bottom page nation.
+ - Show list in ascending order with order price or latest date.
  
 
- 
+ <br/>
 
 
 ### Result
 
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/74501631/235025013-cf139ae3-49c6-4563-9a1f-d8b3cd0a8527.png">
-<img width="624" alt="image" src="https://user-images.githubusercontent.com/74501631/235025052-7736779c-317d-42d7-8e06-db89079f7369.png">
-<img width="646" alt="image" src="https://user-images.githubusercontent.com/74501631/235025080-4f068dab-15f2-49fb-bf5c-cd3aa27453b5.png">
-<img width="688" alt="image" src="https://user-images.githubusercontent.com/74501631/235025095-2ebd89b7-72b7-41be-8c75-fae25bd77c3e.png">
-click the items -> go link to merchandise page
-<img width="648" alt="image" src="https://user-images.githubusercontent.com/74501631/235025225-d1edaa71-8aa4-48f6-9484-ab739131dfc2.png">
-
+ ![image1](https://user-images.githubusercontent.com/74501631/235025013-cf139ae3-49c6-4563-9a1f-d8b3cd0a8527.png)
+ ![image2](https://user-images.githubusercontent.com/74501631/235025052-7736779c-317d-42d7-8e06-db89079f7369.png)
+ ![image3](https://user-images.githubusercontent.com/74501631/235025080-4f068dab-15f2-49fb-bf5c-cd3aa27453b5.png)
+ ![image4](https://user-images.githubusercontent.com/74501631/235025095-2ebd89b7-72b7-41be-8c75-fae25bd77c3e.png)
+ click the items -> go link to merchandise page
+ ![image5](https://user-images.githubusercontent.com/74501631/235025225-d1edaa71-8aa4-48f6-9484-ab739131dfc2.png)
